@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "build": "echo Build step not required for this app",
+    "build:azure": "echo Build step not required for this app"
   },
   "keywords": [
     "storybook",

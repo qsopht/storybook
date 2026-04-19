@@ -1,0 +1,22 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "Create a generative storybook that generates similar words based on a given word.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "storybook",
+    "words",
+    "similar"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3"
+  }
+}
